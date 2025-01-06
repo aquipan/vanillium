@@ -16,6 +16,11 @@ hash = "3aa5a0e70e10f7299e663eaec180ff2ec4e0a0a274327cb5db842a4fa14908d5"
 metafile = true
 
 [[files]]
+file = "mods/athena.pw.toml"
+hash = "beb1f7ccd7c0ca2862492e51d6692c22b2d6cf9ee9f2a5c1274c1b9930e2b9c4"
+metafile = true
+
+[[files]]
 file = "mods/azurelib-armor.pw.toml"
 hash = "dde36219b8b51305e5e7521dc192cdd4ea39ac3baf9e2bfa711ee9e60e7de0c8"
 metafile = true
@@ -192,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "4ff77087be80284d990116d289b8cbfd4d974d40b385293ea553a273bc12e127"
+hash = "93b5b476d2eda50bdfb153355d396bbf1ef666b4daee6345c18cb8f59c7a8f34"
 metafile = true
 
 [[files]]
