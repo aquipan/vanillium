@@ -1,0 +1,13 @@
+name = "Eleron"
+filename = "eleron-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zSqjq7Lw/versions/W3iLSCWg/eleron-1.0.1.jar"
+hash-format = "sha1"
+hash = "cf94de8fd1a8c641302f8e7791b5da677e6d7e81"
+
+[update]
+[update.modrinth]
+mod-id = "zSqjq7Lw"
+version = "W3iLSCWg"

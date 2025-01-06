@@ -1,0 +1,13 @@
+name = "Mythic Upgrades"
+filename = "mythicupgrades-4.2.0+mc1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ERH7cFoy/versions/taHiJ6AB/mythicupgrades-4.2.0%2Bmc1.21.jar"
+hash-format = "sha1"
+hash = "99ddaba99125d2cd2579b04ca06dca50d256be70"
+
+[update]
+[update.modrinth]
+mod-id = "ERH7cFoy"
+version = "taHiJ6AB"

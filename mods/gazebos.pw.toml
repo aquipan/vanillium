@@ -1,0 +1,13 @@
+name = "Gazebos (RPG Series)"
+filename = "gazebo-2.0.2+1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/XIpMGI6r/versions/unZ0xAnj/gazebo-2.0.2%2B1.21.1.jar"
+hash-format = "sha1"
+hash = "f5a2b64407fac08f22c362599bb49257d2722f30"
+
+[update]
+[update.modrinth]
+mod-id = "XIpMGI6r"
+version = "unZ0xAnj"

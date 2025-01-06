@@ -1,0 +1,13 @@
+name = "Wilder Wild"
+filename = "WilderWild-3.0.11-mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AtHRJSUW/versions/AxLbxFVR/WilderWild-3.0.11-mc1.21.1.jar"
+hash-format = "sha1"
+hash = "32162abee9d6589ac3791464bc631080053b28a6"
+
+[update]
+[update.modrinth]
+mod-id = "AtHRJSUW"
+version = "AxLbxFVR"

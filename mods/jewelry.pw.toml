@@ -1,0 +1,13 @@
+name = "Jewelry (RPG Series)"
+filename = "jewelry-2.0.3+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sNJAIjUm/versions/JDQ3soyZ/jewelry-2.0.3%2B1.21.1.jar"
+hash-format = "sha1"
+hash = "4514cf19fea948db071faac1e35f96d254023423"
+
+[update]
+[update.modrinth]
+mod-id = "sNJAIjUm"
+version = "JDQ3soyZ"

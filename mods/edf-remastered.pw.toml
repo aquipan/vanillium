@@ -1,0 +1,13 @@
+name = "Ender Dragon Fight Remastered"
+filename = "edf-remastered-5.0-beta4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HQsBdHGd/versions/zL0UHyGf/edf-remastered-5.0-beta4.jar"
+hash-format = "sha1"
+hash = "331b7edbb269d93b403ecca437131648b46edbcf"
+
+[update]
+[update.modrinth]
+mod-id = "HQsBdHGd"
+version = "zL0UHyGf"

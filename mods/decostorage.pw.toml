@@ -1,0 +1,13 @@
+name = "Decorative Storage"
+filename = "deco_storage-2.0612-beta-1.21.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "21d8913c7da92df713c9c16c53de60a0609c4858"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5970892
+project-id = 826577

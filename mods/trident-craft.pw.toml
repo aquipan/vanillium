@@ -1,0 +1,13 @@
+name = "Trident Craft"
+filename = "trident-craft-2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gna7VCD1/versions/pGPZ0Omz/trident-craft-2.jar"
+hash-format = "sha1"
+hash = "0a33f34d6f1dfd2b2425b9a81a23f4e945fc04aa"
+
+[update]
+[update.modrinth]
+mod-id = "gna7VCD1"
+version = "pGPZ0Omz"

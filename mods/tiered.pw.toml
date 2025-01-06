@@ -1,0 +1,13 @@
+name = "Reforged (formerly Tiered)"
+filename = "Reforged-1.21.1-1.0.4-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fQL9oTmq/versions/G55stGss/Reforged-1.21.1-1.0.4-Fabric.jar"
+hash-format = "sha1"
+hash = "862cbdc8d4100c31bb58ccef83e6bd1f57f01473"
+
+[update]
+[update.modrinth]
+mod-id = "fQL9oTmq"
+version = "G55stGss"
