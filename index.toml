@@ -56,6 +56,11 @@ hash = "4c59e799847c93f04faebf97a3656ca78770dd47e419b76c4a00c0818a13bbc0"
 metafile = true
 
 [[files]]
+file = "mods/call-your-horse.pw.toml"
+hash = "c1a36395b06a39d6fc24e9aaf4e04d7a866c005cc30b37732a7000f646ca8af3"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "3b4182d5fd25e524f21b8d3197267adb5237599ac15daed23411e17b6e27073c"
 metafile = true
@@ -88,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "f0ec653fdb2ea3c2546cbe327d1d184256548be6fe9e459885eb0f9459153dae"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "a5ac1fd939338cc2f6f87c2d632432fdc25e96c8c5fc0db17fec939024229a3c"
 metafile = true
 
 [[files]]
@@ -138,6 +148,16 @@ metafile = true
 [[files]]
 file = "mods/diagonal-fences.pw.toml"
 hash = "a92dc570ac08e88e51871548fc8dae3b56ada0fc6294c1415c6eac302f460caa"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "0983bbccfa6e60795d2330d1390b1c7fa59a4984f6ad0e28001d3199b78e81ac"
+metafile = true
+
+[[files]]
+file = "mods/double-doors.pw.toml"
+hash = "bf632e453de900c796a5747e6d59212ffd8d4372870f39a119e302edaf6ec497"
 metafile = true
 
 [[files]]
@@ -281,13 +301,28 @@ hash = "796aebcfae1383e77941cfd85b61b68e6fb0f12820c820ab51017a9f4b035477"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "afa516c65cdb2a6fec89788b29bb1f5f5750c50d108b6c39c236abc58ff8b057"
+metafile = true
+
+[[files]]
 file = "mods/herdspanic.pw.toml"
 hash = "e5bb2e3a8c58d0103f2086832934aebaeb64733e1aea035a74907e9dce6ea466"
 metafile = true
 
 [[files]]
+file = "mods/horse-armor-stand.pw.toml"
+hash = "82fd3ca393e1a06f396042dbcaa28e7399b5f2cc2cb77e58ea95902cd54dfde5"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "30c2e538242d8c83b23f1c0ca1eed38f8734fa04ee706696910bd1715a3d1da4"
+metafile = true
+
+[[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "9f7f93ea1b954257d03c25b422b55f467a16b5df4a645f02a9e101858e9daf86"
 metafile = true
 
 [[files]]
@@ -366,6 +401,41 @@ hash = "113467e8890ef3558564afe84a88e2e3910f7878f716decf6b79a5966b3063de"
 metafile = true
 
 [[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "042f9a31313e091efbfcf44cc425788aa74ab6ef94eb11fa7893b995495bb8ad"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "b63ca3bacf696065b8110d05c39846f72a89fe5d4b34b7a2ecf0f40c668984f1"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "cd337402eb5e09c019037aebb59b883eb3968d50abfce15670218f66b5da78a5"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "7fbeb8a92e45442d0117cb551d6726c9f936e6340064c33dbb82028acec647d7"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "2bcc2d5edf4e631d6adaa8871cb6dca55a36473ea329dc93dd53ac094448d611"
+metafile = true
+
+[[files]]
+file = "mods/macaws-stairs.pw.toml"
+hash = "d5116984c04d31432f4d7a7d79b0bd773ee65e900e72288817e8df4cfee13897"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "09d45a3c0d8b197d202f8e16580d9722d9321e06f8373c89550cec74cd172806"
+metafile = true
+
+[[files]]
 file = "mods/mes-moogs-end-structures.pw.toml"
 hash = "eb7cdc291229c25d46dab08792eae852bae743f4b7ae416e6867740f841f9246"
 metafile = true
@@ -373,6 +443,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "87a1755422226eee3e68fa8842e1a52362451656994fb81d4ac5dca3a1ea9c7f"
+metafile = true
+
+[[files]]
+file = "mods/monolib.pw.toml"
+hash = "bbf25187c467c1a79164d0cdcd7245c3e704ea9f7e14eff6493bb156e498539e"
 metafile = true
 
 [[files]]
@@ -388,6 +463,11 @@ metafile = true
 [[files]]
 file = "mods/more-mob-variants.pw.toml"
 hash = "4aabdd45450a1475873d38bb8de88bf4e6fc7467a9a1b10fdd1bb80f0842ce17"
+metafile = true
+
+[[files]]
+file = "mods/more-useful-copper.pw.toml"
+hash = "5bba4b97c2b979d66b6edd04102880d460d86b9c087c12eb73f318e9ea379907"
 metafile = true
 
 [[files]]
@@ -461,6 +541,11 @@ hash = "7563e00d7eb9b86882d4f0c844a31ce56f1ff924ae207b1604b10ca6942c1a4b"
 metafile = true
 
 [[files]]
+file = "mods/realistic-farmland.pw.toml"
+hash = "0e38191ca321c0d617f4645740225d658c07b34f6022915e05d776b066351c7c"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "b577e80255ce7411660efe7106517379a3fda20a706e27a498a5f824e0b818c6"
 metafile = true
@@ -501,8 +586,18 @@ hash = "e64ae93c6ef9b2d06ce3abfe656f4126315f0f07e9303fb26e7f15ad9e6b0d02"
 metafile = true
 
 [[files]]
+file = "mods/silk.pw.toml"
+hash = "2447d28a410c32be9675a8305128f8882ce30146d957e727dc59cb6fa8b40181"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "9f89ac77b02de7492a5f2d0529418b53b5e084d8eae49dc7db7b644ce9116013"
+metafile = true
+
+[[files]]
+file = "mods/smarter-farmers-farmers-replant.pw.toml"
+hash = "042adc4d367a0099e964b2f1a29aa69f9e3c9d38389e0670b571cd74feaacde0"
 metafile = true
 
 [[files]]
@@ -588,6 +683,16 @@ metafile = true
 [[files]]
 file = "mods/unionlib.pw.toml"
 hash = "daa13194eda06828f7f8eca6d62856f0ba3c5221230e3d324caa3758a366686f"
+metafile = true
+
+[[files]]
+file = "mods/veinminer-enchantment.pw.toml"
+hash = "4ff6b6f173b37e5404b024eac48050f2ffb9014281a9d349b622672c615144e3"
+metafile = true
+
+[[files]]
+file = "mods/veinminer.pw.toml"
+hash = "b9073761a2053b3e373fff13d5c48258fea6b1edb9cee00d00c96ad9fe4d3f20"
 metafile = true
 
 [[files]]
