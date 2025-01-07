@@ -1,13 +1,13 @@
 name = "More Delight (for Farmer's Delight)"
-filename = "moredelight-24.09.27-1.21-fabric.jar"
+filename = "moredelight-25.01.06-1.21-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/znHQQtuU/versions/Pc1Zc3Db/moredelight-24.09.27-1.21-fabric.jar"
+url = "https://cdn.modrinth.com/data/znHQQtuU/versions/91FZkbdt/moredelight-25.01.06-1.21-fabric.jar"
 hash-format = "sha1"
-hash = "70cf40603ad04cb7ee42259e9b3ffb76d0348c15"
+hash = "9955996bcc08ba6c9f0baa56903bc5d0a615b580"
 
 [update]
 [update.modrinth]
 mod-id = "znHQQtuU"
-version = "Pc1Zc3Db"
+version = "91FZkbdt"
