@@ -1,0 +1,13 @@
+name = "I Know What I'm Doing!"
+filename = "ikwid-1.0_1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZKRizlkf/versions/SX4sgkg1/ikwid-1.0_1.21.jar"
+hash-format = "sha1"
+hash = "386917428e6e5ed8a305336bd5876d5a9427a108"
+
+[update]
+[update.modrinth]
+mod-id = "ZKRizlkf"
+version = "SX4sgkg1"
