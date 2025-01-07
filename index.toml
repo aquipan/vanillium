@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "da7b401253caaebc0408ad843a6da5f3df59c857afe94ffaa4e28d61b63862e7"
+hash = "4c59e799847c93f04faebf97a3656ca78770dd47e419b76c4a00c0818a13bbc0"
 metafile = true
 
 [[files]]
@@ -198,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/craftify.pw.toml"
 hash = "0503cda012527fd7a074b120e44bc780c8da93410bc61ac51efa461bbd6696a2"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "3ef80bdeb1e484c66cf055a7ec027fadb28c40d8483ec05512ffd62b41f0fbae"
 metafile = true
 
 [[files]]

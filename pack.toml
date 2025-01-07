@@ -1,4 +1,4 @@
-name = "Vanillium"
+name = "Vanillium-Client"
 author = "Nodev"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b3137c0b0771e27e3da439b1cf03f34eab7c11423b9b60ebccfd71bd96190c9b"
+hash = "f095743a92d0f4bc45a068f7f2d4c8f63b6324ae0580806c498d20efc4a8f653"
 
 [versions]
 fabric = "0.16.9"
