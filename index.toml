@@ -1,8 +1,13 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/accessories-tc-layer.pw.toml"
+hash = "2ce89cc3e5f8dd8ac29928d0a26baecd96896b01c82b10058de7b0781b4abadc"
+metafile = true
+
+[[files]]
 file = "mods/accessories.pw.toml"
-hash = "d71f45e502b4ec7c7f64cd79022911cae8ab73a4b9610593defe6e0700da04a2"
+hash = "a96b05b37a6ddb0185c255640d130f32335661e9589ad1fb699d6f355e2fa7bf"
 metafile = true
 
 [[files]]
@@ -47,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "da7b401253caaebc0408ad843a6da5f3df59c857afe94ffaa4e28d61b63862e7"
+hash = "4c59e799847c93f04faebf97a3656ca78770dd47e419b76c4a00c0818a13bbc0"
 metafile = true
 
 [[files]]
@@ -217,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "93b5b476d2eda50bdfb153355d396bbf1ef666b4daee6345c18cb8f59c7a8f34"
+hash = "4ff77087be80284d990116d289b8cbfd4d974d40b385293ea553a273bc12e127"
 metafile = true
 
 [[files]]
@@ -578,11 +583,6 @@ metafile = true
 [[files]]
 file = "mods/trident-craft.pw.toml"
 hash = "d671212f75774c110811df89354653be476b6cfbf41e4207e52869ace61feb5e"
-metafile = true
-
-[[files]]
-file = "mods/trinkets.pw.toml"
-hash = "71cf6afe41f483f58245070a5cd23a9f75157027e0fce3af1413816d0268ef4a"
 metafile = true
 
 [[files]]
