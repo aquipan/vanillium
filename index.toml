@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/accessories.pw.toml"
+hash = "d71f45e502b4ec7c7f64cd79022911cae8ab73a4b9610593defe6e0700da04a2"
+metafile = true
+
+[[files]]
 file = "mods/archers.pw.toml"
 hash = "051c55a30f6c43308027128ab0965a0b7fd1450f7e1172f43d0a5c12531a65d5"
 metafile = true
@@ -23,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/azurelib-armor.pw.toml"
 hash = "dde36219b8b51305e5e7521dc192cdd4ea39ac3baf9e2bfa711ee9e60e7de0c8"
+metafile = true
+
+[[files]]
+file = "mods/backpacked.pw.toml"
+hash = "37f558826ecd7cc68ca88633fc3d0a3b109bcbe4792a85ad5d100068a8cfd37b"
 metafile = true
 
 [[files]]
@@ -207,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "4ff77087be80284d990116d289b8cbfd4d974d40b385293ea553a273bc12e127"
+hash = "93b5b476d2eda50bdfb153355d396bbf1ef666b4daee6345c18cb8f59c7a8f34"
 metafile = true
 
 [[files]]
@@ -243,6 +253,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "1c0ec02e5829a7334af6c0afa8d99d6360492f17a2fec98c9e01295679ceb12e"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+hash = "b6a530549ee1aa5137ae26f8963dbb74472d79ef68bed5a6fa086094fd401a3c"
 metafile = true
 
 [[files]]
@@ -407,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "4016499977a50addf35b81447a7e2bfbe8d1cebcaf341edcbd7bb5ac83f4ed3a"
+hash = "858b2961beca189c561577cc6d0a21a82fe52db6d01f4cb0bde557b7a8dba047"
 metafile = true
 
 [[files]]
@@ -558,11 +573,6 @@ metafile = true
 [[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "7e5f765feca0b064138a9da17bb355cf769c8660c7bff25f4e09707add135e96"
-metafile = true
-
-[[files]]
-file = "mods/travelersbackpack.pw.toml"
-hash = "284e857d12c0577df83ab9e213a819eaa51ad36fbee0e4b8737937381336dd25"
 metafile = true
 
 [[files]]
