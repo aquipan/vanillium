@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "4c59e799847c93f04faebf97a3656ca78770dd47e419b76c4a00c0818a13bbc0"
+hash = "ad851da94898843b6e25ec696682a04f341cb823a236aedee03c019b586e1297"
 metafile = true
 
 [[files]]
@@ -788,6 +788,11 @@ metafile = true
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
 hash = "e64ae93c6ef9b2d06ce3abfe656f4126315f0f07e9303fb26e7f15ad9e6b0d02"
+metafile = true
+
+[[files]]
+file = "mods/silk.pw.toml"
+hash = "2447d28a410c32be9675a8305128f8882ce30146d957e727dc59cb6fa8b40181"
 metafile = true
 
 [[files]]
