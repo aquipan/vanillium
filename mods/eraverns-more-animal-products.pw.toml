@@ -1,0 +1,13 @@
+name = "Eravern's more animal products"
+filename = "emapmod-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MROpwQIR/versions/pXLlnAy5/emapmod-2.0.0.jar"
+hash-format = "sha1"
+hash = "f5987faf8666a287b98320e73b174bd6e2bd461f"
+
+[update]
+[update.modrinth]
+mod-id = "MROpwQIR"
+version = "pXLlnAy5"

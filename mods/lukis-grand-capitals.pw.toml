@@ -1,0 +1,13 @@
+name = "Luki's Grand Capitals"
+filename = "lukis-grand-capitals-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8Lw09aLb/versions/mjleQ2qg/lukis-grand-capitals-1.1.1.jar"
+hash-format = "sha1"
+hash = "1caa8835ed602d038b94c9c3ab0f765a7711e202"
+
+[update]
+[update.modrinth]
+mod-id = "8Lw09aLb"
+version = "mjleQ2qg"
