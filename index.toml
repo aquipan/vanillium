@@ -351,6 +351,11 @@ hash = "b24e8c8a05c1fb22a1a40cb6c6b059b753851f5e829dbf970c372c55c0ec1d0c"
 metafile = true
 
 [[files]]
+file = "mods/eraverns-more-animal-products.pw.toml"
+hash = "db5aab3ddd8076f89d77eb18ba3f7508153f37f49a54d11e03811aeff9fabb01"
+metafile = true
+
+[[files]]
 file = "mods/explorify.pw.toml"
 hash = "fd38874e163e22c18c1b110918f601a822a065119636a2458f7743679d5f0f7d"
 metafile = true
@@ -578,6 +583,16 @@ metafile = true
 [[files]]
 file = "mods/log-begone.pw.toml"
 hash = "113467e8890ef3558564afe84a88e2e3910f7878f716decf6b79a5966b3063de"
+metafile = true
+
+[[files]]
+file = "mods/lukis-crazy-chambers.pw.toml"
+hash = "7ced8ce97c5ea942fde8e6a2550c3def988ec3ddefaf47e9bf7db3a46f20358e"
+metafile = true
+
+[[files]]
+file = "mods/lukis-grand-capitals.pw.toml"
+hash = "fca13d828effc8d98a064ef4de9e54abf51a9f4a4f4937dfb4a5d860b131ea58"
 metafile = true
 
 [[files]]
@@ -886,11 +901,6 @@ hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
 metafile = true
 
 [[files]]
-file = "mods/towns-and-towers.pw.toml"
-hash = "519c532586879c46063bf32b271c1d0608af04a204eea0d0ba1634f9d4bc8df9"
-metafile = true
-
-[[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "7e5f765feca0b064138a9da17bb355cf769c8660c7bff25f4e09707add135e96"
 metafile = true
@@ -923,6 +933,11 @@ metafile = true
 [[files]]
 file = "mods/villager-hats.pw.toml"
 hash = "ad53b4f0441c90dbbb98eeb0c7cbbb702942568582cfacfad93f45c429eb6990"
+metafile = true
+
+[[files]]
+file = "mods/villages-and-pillages.pw.toml"
+hash = "cad963349d9dbcd14dfeb86be2213388202ff2d5d6181bb8c9f0d51adfc3edbf"
 metafile = true
 
 [[files]]
